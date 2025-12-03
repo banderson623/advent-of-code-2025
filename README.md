@@ -1,5 +1,7 @@
 # advent-of-code-2025
 
+https://adventofcode.com
+
 Having fun one more year :)
 
 Let's see how far I get with golang :)
