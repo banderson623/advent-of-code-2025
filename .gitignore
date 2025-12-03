@@ -1,0 +1,14 @@
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+.venv
+.DS_Store
+
+.fart-smells
+
+# don't share the input
+input.txt
