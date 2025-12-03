@@ -7,8 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, World!")
-
 	var dial int = 50
 	var timesAtZero int = 0
 
